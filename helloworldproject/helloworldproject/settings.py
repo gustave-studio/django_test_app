@@ -16,10 +16,6 @@ from .settings_local import *
 SECRET_KEY = SECRET_KEY
 DATABASES = DATABASES
 
-print('----key----')
-print(SECRET_KEY)
-print(DATABASES)
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
